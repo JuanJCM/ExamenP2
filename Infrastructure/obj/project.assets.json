@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "ExamenP2.Core/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/ExamenP2.Core.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ExamenP2.Core.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "ExamenP2.Core/1.0.0": {
-      "type": "project",
-      "path": "../ExamenP2.Core/ExamenP2.Core.csproj",
-      "msbuildProject": "../ExamenP2.Core/ExamenP2.Core.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "ExamenP2.Core >= 1.0.0"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\Juan Carranza\\.nuget\\packages\\": {},
@@ -33,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juan Carranza\\Documents\\GitHub\\ExamenP2\\ExamenP2\\ExamenP2.csproj",
-      "projectName": "ExamenP2",
-      "projectPath": "C:\\Users\\Juan Carranza\\Documents\\GitHub\\ExamenP2\\ExamenP2\\ExamenP2.csproj",
+      "projectUniqueName": "C:\\Users\\Juan Carranza\\Documents\\GitHub\\ExamenP2\\Infrastructure\\Infrastructure.csproj",
+      "projectName": "Infrastructure",
+      "projectPath": "C:\\Users\\Juan Carranza\\Documents\\GitHub\\ExamenP2\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Juan Carranza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Juan Carranza\\Documents\\GitHub\\ExamenP2\\ExamenP2\\obj\\",
+      "outputPath": "C:\\Users\\Juan Carranza\\Documents\\GitHub\\ExamenP2\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -55,11 +36,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {
-            "C:\\Users\\Juan Carranza\\Documents\\GitHub\\ExamenP2\\ExamenP2.Core\\ExamenP2.Core.csproj": {
-              "projectPath": "C:\\Users\\Juan Carranza\\Documents\\GitHub\\ExamenP2\\ExamenP2.Core\\ExamenP2.Core.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -81,9 +58,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

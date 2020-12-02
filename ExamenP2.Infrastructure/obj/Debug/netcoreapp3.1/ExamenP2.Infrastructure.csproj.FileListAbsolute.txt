@@ -1,0 +1,5 @@
+C:\Users\Juan Carranza\Documents\GitHub\ExamenP2\ExamenP2.Infrastructure\bin\Debug\netcoreapp3.1\ExamenP2.Infrastructure.deps.json
+C:\Users\Juan Carranza\Documents\GitHub\ExamenP2\ExamenP2.Infrastructure\bin\Debug\netcoreapp3.1\ExamenP2.Infrastructure.dll
+C:\Users\Juan Carranza\Documents\GitHub\ExamenP2\ExamenP2.Infrastructure\obj\Debug\netcoreapp3.1\ExamenP2.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Juan Carranza\Documents\GitHub\ExamenP2\ExamenP2.Infrastructure\obj\Debug\netcoreapp3.1\ExamenP2.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Juan Carranza\Documents\GitHub\ExamenP2\ExamenP2.Infrastructure\obj\Debug\netcoreapp3.1\ExamenP2.Infrastructure.AssemblyInfo.cs
